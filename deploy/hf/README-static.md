@@ -16,7 +16,7 @@ You cannot train a detector on data that does not exist — so MANTIS manufactur
 it, adversarially, and then builds the detector against it.
 
 This Space is the **defence console**. Press **Start authorisation stream** and
-watch pre-scored Mastercard Agent Pay authorisations arrive one at a time, get a
+watch pre-scoredagent-initiated payment authorisations arrive one at a time, get a
 decision from a five-layer firewall, and resolve against ground truth.
 
 It is served as a static site, and that is a design decision rather than a
