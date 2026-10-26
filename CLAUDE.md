@@ -1,12 +1,4 @@
 # MANTIS — Project Constitution
-
-> Read this file **first**, every session. It outranks your defaults.
-> Mastercard Innovation Challenge @ Global Fintech Fest 2026. Solo build,
-> ~36 engineering hours total. If a decision is not covered here, prefer the
-> option that a judge can see working in 4 minutes on a laptop with no network.
-
----
-
 ## 1. The pitch (compressed)
 
 Agentic commerce — AI agents that pay on a human's behalf via **Mastercard Agent
