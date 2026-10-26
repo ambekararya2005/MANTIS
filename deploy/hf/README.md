@@ -18,7 +18,7 @@ it, adversarially, and then builds the detector against it.
 
 This Space is the **live defence console**: the React front end and its FastAPI
 backend in one container, one origin. Press **Start authorisation stream** and
-watch pre-scored Mastercard Agent Pay authorisations arrive one at a time, get a
+watch pre-scored agent-initiated payment authorisations arrive one at a time, get a
 decision from a five-layer firewall, and resolve against ground truth.
 
 ### What you are looking at
